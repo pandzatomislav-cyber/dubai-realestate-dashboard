@@ -2,7 +2,7 @@
 
 An interactive analytics dashboard tracking property transaction trends across Dubai's key districts from 2022 to 2025. Built with Python and Streamlit, deployed to the web.
 
-**[🚀 Live Demo →](https://your-app-url.streamlit.app)** *(link added after deployment)*
+**[🚀 Live Demo →](https://dubai-realestate-dashboard-m8wkcg3b37icxwomwv8qjd.streamlit.app/)**
 
 ---
 
