@@ -4,6 +4,8 @@ An interactive analytics dashboard tracking property transaction trends across D
 
 **[🚀 Live Demo →](https://dubai-realestate-dashboard-m8wkcg3b37icxwomwv8qjd.streamlit.app/)**
 
+![Dashboard Preview](assets/dashboard-preview.png)
+
 ---
 
 ## Overview
